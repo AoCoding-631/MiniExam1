@@ -30,6 +30,7 @@ class MainClass {
 
       else (bmi >= 30.0)
       Console.WriteLine(bmi + "you are obese ");
+      i++;
     }
 
     //cant firgure it out :(
